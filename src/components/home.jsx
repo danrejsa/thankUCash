@@ -22,7 +22,6 @@ import meat from "../assets/meat-Up.png";
 import green from "../assets/green-grill.png";
 import trebet from "../assets/Trebet.png";
 import wing from "../assets/WingsnSides.png";
-import background from "../assets/gradient-ring.svg";
 import bubble from  "../assets/bubble-tii.png";
 import coffe from  "../assets/coffe-plus.png";
 import instagram from "../assets/instagram-icon.svg";

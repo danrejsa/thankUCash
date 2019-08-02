@@ -54,7 +54,7 @@ class NavBar extends Component {
                     <NavLink  style={{color:'#fff',margin:'20px',fontSize:'18px'}}  ><Link className='link' to='/about'>About us</Link></NavLink>
                   </NavItem> 
                   <NavItem > 
-                    <NavLink  style={{color:'#fff',margin:'20px',fontSize:'18px'}} ><Link className='link' to='/blog'>Blog</Link></NavLink>
+                    <NavLink className='link' style={{color:'#fff',margin:'20px',fontSize:'18px'}} href='https://medium.com/thankucash'>Blog</NavLink>
                   </NavItem> 
                   <NavItem>
                     <NavLink style={{color:'#fff',margin:'20px',fontSize:'18px'}}  ><Link className='link' to='/login'>Login</Link></NavLink>

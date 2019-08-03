@@ -38,8 +38,11 @@ class Business extends Component {
   render() {
     return (
         <Fragment>
+        
         <Container style={{ marginBottom:'18rem'}}>
+       
       <Container style={{ marginLeft:'auto',marginTop:'-33rem', position:'absolute'}}>
+        
         <div className="business">
           <div className="business-container" id="business-container-left">
             <h2 style={{ marginTop:'5rem'}}>

@@ -39,7 +39,7 @@ class Home extends Component {
 
              <FrontText />
           <Phone />
-          <div className='home-link-background' ></div>
+         
         <div style={{width:'100%',  marginTop:'15rem'}}>
         <div className="main-container" >
           <h3>How It Works</h3></div>

@@ -23,11 +23,7 @@ class Fronttext extends Component {
   state = {};
   render() {
     return (
-      <Container className="frontText">
-        <div
-        className='home-link-bckgrd'
-         
-        />
+      <Container className="frontText">       
         <h4 style={{fontSize:'44px'}}>Get Instant Cash, When you spend</h4>
         <p>No Gimmicks, One Point equals One Naira (1 point = N1)</p>
         <div>
